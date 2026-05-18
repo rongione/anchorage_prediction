@@ -1,6 +1,6 @@
 # Prediktion av båtar i hamn
 
-Detta notebook tränar regressionsmodeller för att prediktera antalet båtar i de 100 mest populära hamnarna baserat på väderdata, tid och genomsnittlig beläggning. 
+Detta notebook tränar ML-modeller för att prediktera antalet båtar i de 100 mest populära hamnarna baserat på väderdata, tid och genomsnittlig beläggning. 
 Ett externt dataset som tillhandahålls av företaget Skippo ligger till grund för modellträningen.
 
 ## 1. Introduktion
